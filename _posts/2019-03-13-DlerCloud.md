@@ -7,7 +7,7 @@ author:     聪聪                      # 作者
 header-img:     #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
-    - Shadowsocks
+    - 东西
 
 ---
 > 转载请注明原文出处:[SS/SSR/V2Ray 服务商(机场)推荐:Dler Cloud](https://congcong0806.github.io/2019/03/13/DlerCloud)
