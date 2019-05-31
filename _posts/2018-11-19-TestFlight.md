@@ -154,6 +154,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - 寒梅 <https://testflight.apple.com/join/7U4YKpl2>
 - NetShuttle <https://testflight.apple.com/join/742YC03J>
 - Hotspot+VPN Tor Browser Proxy <https://testflight.apple.com/join/bKAEdVG3>
+- ShadowCoel <https://testflight.apple.com/join/2zWsHa9a>
 > 
 - 爱阅书香 <https://testflight.apple.com/join/23FPuktF>
 - 黑匣子Player <https://testflight.apple.com/join/uCsUGsvN>
