@@ -33,8 +33,11 @@ Telegram 官方群组:<https://t.me/dlercloud_talk><br>
 Telegram 官方Bot:<https://t.me/DlerCloud_bot><br>
 Telegram 公告中心:<https://t.me/dlercloud_news>
 
-毒药大佬评测:<https://t.me/DuyaoSS/508>
-![2019.2.23 晚高峰6点-7点测速](http://ww1.sinaimg.cn/large/9b84e6acgy1g10zhgiynoj20fx0q5wj6.jpg)
+毒药大佬评测:<https://t.me/DuyaoSS/734>
+[点击查看测速](http://ww1.sinaimg.cn/large/9b84e6acly1g3ijv4ejpqj20he3kcnjv.jpg)<br/>
+
+更多机场介绍:<br>
+https://congcong0806.github.io/2018/04/20/SS
 
 浅谈部分机场（SS/SSR提供商）的使用感受 (毒药):<br>
 <https://www.duyaoss.com/index.php/archives/3>
