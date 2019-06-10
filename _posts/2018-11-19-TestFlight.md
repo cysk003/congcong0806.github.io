@@ -53,6 +53,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - WhatsApp <https://testflight.apple.com/join/s4rTJVPb>
 - 2Do <https://testflight.apple.com/join/McBV96Wi>
 - Snapchat <https://testflight.apple.com/join/yP1ZHFr0>
+- OmniPlan 3 <https://testflight.apple.com/join/kOOQHIoR>
 - Google Chrome <https://testflight.apple.com/join/LPQmtkUs>
 - Firefox Beta <https://testflight.apple.com/join/JdsubPZs>
 - Opera <https://testflight.apple.com/join/ASrCFVHB>
@@ -133,6 +134,9 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - 七猫小说 <https://testflight.apple.com/join/UaD5Pl6t>
 - 期待 <https://testflight.apple.com/join/i37NXl07>
 - V2LF <https://testflight.apple.com/join/cvx4MQuh>
+- Sky Beta <https://testflight.apple.com/join/S41tc3c0>
+- Feeds - All the Web, One Feed <https://testflight.apple.com/join/YBFNq1bw>
+- Wissen PDF reader <https://testflight.apple.com/join/HvCrp5Th>
 
 ---
 
