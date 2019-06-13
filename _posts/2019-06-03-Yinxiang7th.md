@@ -1,6 +1,6 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      印象笔记7周年活动7年有你               # 标题 
+title:      印象笔记7周年活动 - 7年有你               # 标题 
 subtitle:    #副标题
 date:       2019-06-03              # 时间
 author:     聪聪                      # 作者
@@ -17,7 +17,7 @@ tags:                               #标签
 ![](http://ww1.sinaimg.cn/large/9b84e6acly1g3p19wdgiqj21jk0gowhk.jpg)
 
 活动地址:<br>
-<https://www.yinxiang.com>
+<https://www.yinxiang.com><br>
 [https://app.yinxiang.com/subscriptions](https://app.yinxiang.com/subscriptions?promoCode=2f94d99a0837fd5a6a8fe351252659cf)
 
 
@@ -26,7 +26,6 @@ tags:                               #标签
 最长情的一次福利<br>
 用微信扫一扫<br>
 ![](http://ww1.sinaimg.cn/large/9b84e6acly1g3zlojgol0j20ku07tdiu.jpg)
-
 5 折买 7 年 ¥518 元(¥6.17/月 x 84 月)<br>
 买了省 ¥518, 不买也省 ¥518, 买不买都划算
 
