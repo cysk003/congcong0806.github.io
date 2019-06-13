@@ -28,6 +28,7 @@ tags:                               #标签
 ![](http://ww1.sinaimg.cn/large/9b84e6acly1g3zlojgol0j20ku07tdiu.jpg)
 5 折买 7 年 ¥518 元(¥6.17/月 x 84 月)<br>
 买了省 ¥518, 不买也省 ¥518, 买不买都划算
+活动时间: 2019年6月12日～2019年6月14日
 
 > 转载请注明原文出处:[印象笔记 7周年活动: 7年有你](https://congcong0806.github.io/2019/06/03/Yinxiang7th)
 
