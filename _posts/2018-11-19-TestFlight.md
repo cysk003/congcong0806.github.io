@@ -31,6 +31,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 
 点击链接加入测试版:
 
+- 微信 <https://testflight.apple.com/join/N9VUwtqZ>
 - Microsoft Word <https://testflight.apple.com/join/hw76phYi>
 - Microsoft Excel <https://testflight.apple.com/join/3lIiz1eZ>
 - Microsoft PowerPoint <https://testflight.apple.com/join/a9Ef0N3g>
