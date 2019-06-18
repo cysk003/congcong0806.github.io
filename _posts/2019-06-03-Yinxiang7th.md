@@ -46,7 +46,7 @@ tags:                               #标签
 
 ##### 活动5: 买Kindle赠大礼 | 7年高级帐户直接送
 
-低至6折| CEO最心疼组合| 最新版Kindle+ 7年印象笔记高级帐户仅售999元
+低至6折 CEO最心疼组合 最新版Kindle+ 7年印象笔记高级帐户仅售999元
 
 活动地址: <https://h5.youzan.com/v2/feature/HkGJBDr0WD>
 
