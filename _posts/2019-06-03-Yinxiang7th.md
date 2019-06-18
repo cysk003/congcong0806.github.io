@@ -54,6 +54,9 @@ tags:                               #标签
 
 ##### 活动6: 好课精选Top10 | 14.7元起售
 
+复制链接, 在微信里打开. 活动地址:<br>
+<https://appdywbmdct3338.h5.xiaoeknow.com/mp_more/eyJpZCI6IjM0MDg0MiIsImNoYW5uZWxfaWQiOiIiLCJjb21wb25lbnRfaWQiOjI4NDc0MzN9>
+
 > 转载请注明原文出处:[印象笔记 7周年活动: 7年有你](https://congcong0806.github.io/2019/06/03/Yinxiang7th)
 
 ---
