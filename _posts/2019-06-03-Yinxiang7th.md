@@ -62,6 +62,10 @@ tags:                               #标签
 更多活动,活动详情,联系客服, 关注印象笔记官方微信公众号:`yxbj100`<br>
 ![](http://ww1.sinaimg.cn/large/9b84e6acly1g469cwbehhj203l03l0tt.jpg)
 
+##### 活动8: 618返场
+
+详情 → <https://mp.weixin.qq.com/s/1nPnHo7a-d3CNIceaWVFXQ>
+
 > 转载请注明原文出处:[印象笔记 7周年活动: 7年有你](https://congcong0806.github.io/2019/06/03/Yinxiang7th)
 
 ---
