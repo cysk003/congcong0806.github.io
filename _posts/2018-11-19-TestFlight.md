@@ -59,6 +59,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Firefox Beta <https://testflight.apple.com/join/JdsubPZs>
 - Opera <https://testflight.apple.com/join/ASrCFVHB>
 - 1Blocker X <https://testflight.apple.com/join/KjmVWFnT>
+- MOZE 3.0 <https://testflight.apple.com/join/56S0omVh>
 - Tumblr <https://testflight.apple.com/join/nTNSXGV3>
 - Todoist <https://testflight.apple.com/join/L2pBORZN>
 - Pocket <https://testflight.apple.com/join/LxKzQMpu>
