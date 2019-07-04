@@ -51,14 +51,14 @@ tags:                               #标签
 	10. 任务清单
 	11. 思维导图
 	12. 素材库
-	13. 官网是:https://www.yinxiang.com
+	13. 官网: https://www.yinxiang.com
 
 	国际版:
 	1. 高级帐户:$69.99美元(≈¥485元)/年，已取消标准账户
 	2. 保存微信公众号文章到"MyEvernote"
 	3. 公开链接分享
 	4. 添加 Google Drive 文件
-	5. 官网是:https://evernote.com
+	5. 官网: https://evernote.com
 
 8，印象笔记 Evernote 迁移笔记到另一个账号的两个方法:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<http://www.jianshu.com/p/860233c903c7><br/>
