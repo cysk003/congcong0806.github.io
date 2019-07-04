@@ -68,6 +68,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Spotify Music <https://testflight.apple.com/join/1SyedSId>
 - Dropbox <https://testflight.apple.com/join/LBZaRq4I>
 - Overcast <https://testflight.apple.com/join/ua0oicPc>
+- Canary Mail <https://testflight.apple.com/join/oH6AKZC0>
 - Sleep Cycle <https://testflight.apple.com/join/8RcEFqFF>
 - Wikipedia <https://testflight.apple.com/join/Z0AU0KXC>
 - Twitterrific 5 <https://testflight.apple.com/join/1G3zEeId>
