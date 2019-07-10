@@ -146,7 +146,6 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 ---
 
 - Pharos lite <https://testflight.apple.com/join/DAs8hpAh>
-- Pharos Pro <https://testflight.apple.com/join/StuF0Ast>
 - Kitsunebi <https://testflight.apple.com/join/IdFRwmNy>
 - A.BIG.T IV <https://testflight.apple.com/join/3aArQFMQ>
 - Potatso Lite <https://testflight.apple.com/join/NkF46PRd>
