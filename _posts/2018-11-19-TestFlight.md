@@ -84,6 +84,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Kaspersky Security Cloud <https://testflight.apple.com/join/yst7K78b>
 - 简书 iOS 5.0.0 <https://testflight.apple.com/join/qlNiqNNA>
 - 滴答清单 TickTick <https://testflight.apple.com/join/lCgZjMit>
+- Allegory <https://testflight.apple.com/join/FsXXat52>
 - Opera Touch <https://testflight.apple.com/join/ASrCFVHB>
 - 番组计划 <https://testflight.apple.com/join/N0bwYmVR>
 - To Dot <https://testflight.apple.com/join/7o1Q4Q8p>
