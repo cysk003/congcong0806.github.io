@@ -60,6 +60,5 @@ https://congcong0806.github.io/2018/04/20/SS
 * Telegram 私聊:<https://t.me/congcong>
 * Telegram 社群:<https://t.me/YinxiangBiji>
 * Telegram 频道:<https://t.me/YinxiangBiji_News>
-* Telegram 中文圈:<https://t.me/tgzhcn>
 
 ![聪聪](https://i.v2ex.co/3wc207g5.png) 
