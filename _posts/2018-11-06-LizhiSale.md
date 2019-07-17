@@ -119,7 +119,7 @@ tags:                               #标签
 
 * 我的推特:<https://twitter.com/iicongcong>
 * 我的微博:<https://weibo.com/congcong0806>
-* Telegram 私聊:<https://t.me/congcong>
+* Telegram 私聊:<https://t.me/congcongx_bot>
 * Telegram 社群:<https://t.me/YinxiangBiji>
 * Telegram 频道:<https://t.me/YinxiangBiji_News>
 

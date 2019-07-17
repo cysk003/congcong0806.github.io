@@ -52,7 +52,7 @@ C:\Program Files\Internet Explorer\iexplore.exe`
 * 印象笔记工作群聊:<171606257@qq.com>
 * QQ 邮箱:<171606257@qq.com>
 * QQ 群:[310980586](https://jq.qq.com/?_wv=1027&k=549SGYY)
-* Telegram 私信:<https://t.me/congcong>
+* Telegram 私信:<https://t.me/congcongx_bot>
 * Telegram 社群:<https://t.me/YinxiangBiji>
 
 **或者联系印象笔记官方客服和技术支持帮你解决问题:**
@@ -72,7 +72,7 @@ C:\Program Files\Internet Explorer\iexplore.exe`
 
 * 我的推特:<https://twitter.com/iicongcong>
 * 我的微博:<https://weibo.com/congcong0806>
-* Telegram 私聊:<https://t.me/congcong>
+* Telegram 私聊:<https://t.me/congcongx_bot>
 * Telegram 社群:<https://t.me/YinxiangBiji>
 * Telegram 频道:<https://t.me/YinxiangBiji_News>
 

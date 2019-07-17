@@ -25,7 +25,7 @@ Dler Cloud, 一家很稳很强的机场，速度相当不错，维护也很及�
 还支持Surge iOS 3.4 和Surge Mac 3 最新的 Proxy list 分组订阅功能，可以自定义服务器节点列表。
 
 注册购买:[https://dlercloud.io](https://dlercloud.io/auth/register?affid=8079)<br>
-<!--(获取邀请码联系[聪聪 Bot]: <https://t.me/congcongx_bot>)<br>-->
+<!--(获取邀请码联系[聪聪 Bot]: <https://t.me/congcongx_botx_bot>)<br>-->
 官方网站:[https://dlercloud.io](https://dlercloud.io/auth/register?affid=8079)<br>
 文档中心:<https://docs.lhie1.com/black-hole>
 
@@ -57,7 +57,7 @@ https://congcong0806.github.io/2018/04/20/SS
 
 * 我的推特:<https://twitter.com/iicongcong>
 * 我的微博:<https://weibo.com/congcong0806>
-* Telegram 私聊:<https://t.me/congcong>
+* Telegram 私聊:<https://t.me/congcongx_bot>
 * Telegram 社群:<https://t.me/YinxiangBiji>
 * Telegram 频道:<https://t.me/YinxiangBiji_News>
 
