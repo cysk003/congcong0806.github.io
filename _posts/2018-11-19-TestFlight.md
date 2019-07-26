@@ -143,6 +143,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Wissen PDF reader <https://testflight.apple.com/join/HvCrp5Th>
 - 酷安酷图 <https://testflight.apple.com/join/9ennNtu2>
 - Cats & Dogs <https://testflight.apple.com/join/rGDBZ3hs>
+- Art Wallpapers Daily <https://testflight.apple.com/join/2J53lBua>
 
 ---
 
