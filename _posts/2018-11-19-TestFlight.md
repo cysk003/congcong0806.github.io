@@ -8,6 +8,7 @@ header-img:     #这篇文章标题背景图片 image/liqi volunteer.jpeg
 catalog: true                       # 是否归档
 tags:                               #标签
     - App
+    - TestFlight
 
 ---
 > 转载请注明原文出处:[iOS App 测试版 TestFlight 邀请链接分享](https://congcong0806.github.io/2018/11/19/TestFlight)
