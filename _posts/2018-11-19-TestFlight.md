@@ -83,8 +83,10 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Airmail <https://testflight.apple.com/join/1AcpfFq3>
 - K Music Player 3 Ultimate <https://testflight.apple.com/join/61zjD0e6>
 - Kaspersky Security Cloud <https://testflight.apple.com/join/yst7K78b>
+- 讯飞输入法 <https://testflight.apple.com/join/P7p592l7>
 - 简书 iOS 5.0.0 <https://testflight.apple.com/join/qlNiqNNA>
 - 滴答清单 TickTick <https://testflight.apple.com/join/lCgZjMit>
+- Simple Tasks 2 <https://testflight.apple.com/join/I5ZvVKyh>
 - Allegory <https://testflight.apple.com/join/FsXXat52>
 - Opera Touch <https://testflight.apple.com/join/ASrCFVHB>
 - 番组计划 <https://testflight.apple.com/join/N0bwYmVR>
