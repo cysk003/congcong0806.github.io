@@ -37,7 +37,7 @@ Telegram 公告中心:<https://t.me/dlercloud_news>
 [点击查看测速](http://ww1.sinaimg.cn/large/9b84e6acly1g3ijv4ejpqj20he3kcnjv.jpg)<br/>
 
 更多机场介绍:<br>
-https://congcong0806.github.io/2018/04/20/SS
+<https://congcong0806.github.io/2018/04/20/SS>
 
 浅谈部分机场（SS/SSR提供商）的使用感受 (毒药):<br>
 <https://www.duyaoss.com/index.php/archives/3>
