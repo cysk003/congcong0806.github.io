@@ -48,6 +48,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Telegram <https://testflight.apple.com/join/u6iogfd0>
 - Telegram X [https://rink.hockeyapp.net](https://rink.hockeyapp.net/apps/c6f5a76f5c364ac89a98b77671ef2d63)
 - Nicegram <https://testflight.apple.com/join/e07wV6pl>
+- TelePlus <https://testflight.apple.com/join/LQ2GXZag>
 - Ulysses <https://testflight.apple.com/join/RXVdMPW1>
 - 1Password <https://testflight.apple.com/join/flDiG5AU>
 - Enpass <https://testflight.apple.com/join/hIec0gli>
