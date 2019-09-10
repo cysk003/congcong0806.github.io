@@ -51,7 +51,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - TelePlus <https://testflight.apple.com/join/LQ2GXZag>
 - Ulysses <https://testflight.apple.com/join/RXVdMPW1>
 - 1Password <https://testflight.apple.com/join/flDiG5AU>
-- Enpass <https://testflight.apple.com/join/hIec0gli>
+- Enpass Password Manager <https://testflight.apple.com/join/hIec0gli>
 - Day One <https://testflight.apple.com/join/NXLBigzY>
 - WhatsApp <https://testflight.apple.com/join/s4rTJVPb>
 - 2Do <https://testflight.apple.com/join/McBV96Wi>
