@@ -51,7 +51,7 @@ C:\Program Files\Internet Explorer\iexplore.exe`
 **我的联系方式:**
 * 印象笔记工作群聊:<171606257@qq.com>
 * QQ 邮箱:<171606257@qq.com>
-* QQ 群:[310980586](https://jq.qq.com/?_wv=1027&k=549SGYY)
+* QQ 群:[310980586](https://jq.qq.com/?_wv=1027&k=549SGYY),[579754294](https://jq.qq.com/?_wv=1027&k=5JdOiol)
 * Telegram 私信:<https://t.me/congcongx_bot>
 * Telegram 社群:<https://t.me/YinxiangBiji>
 
