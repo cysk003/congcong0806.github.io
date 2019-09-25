@@ -176,6 +176,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Hotspot+VPN Tor Browser Proxy <https://testflight.apple.com/join/bKAEdVG3>
 - ShadowCoel <https://testflight.apple.com/join/2zWsHa9a>
 - LetsVPN <https://testflight.apple.com/join/qEtCVBNq>
+- 1.1.1.1: Faster Internet <https://testflight.apple.com/join/QKqitFwc>
 
 ---
 
