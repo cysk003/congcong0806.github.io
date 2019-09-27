@@ -286,6 +286,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Desk Clock (World Clock) <https://testflight.apple.com/join/19gnJJSh>
 - Microcosm - AR Voxel Drawing <https://testflight.apple.com/join/PIojYHhU>
 - Champion of the Fields <https://testflight.apple.com/join/6KLsLMFG>
+- A2IPNS <https://testflight.apple.com/join/cbUVu5XI>
 
 ---
 
