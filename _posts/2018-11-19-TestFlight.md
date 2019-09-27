@@ -153,6 +153,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Art Wallpapers Daily <https://testflight.apple.com/join/2J53lBua>
 - SM.MS <https://testflight.apple.com/join/bQz911w3>
 - Stream - An RSS Reader <https://testflight.apple.com/join/auxSqon8>
+- FullPlayer <https://testflight.apple.com/join/HktpUEoB>
 
 ---
 
