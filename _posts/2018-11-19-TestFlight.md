@@ -154,6 +154,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - SM.MS <https://testflight.apple.com/join/bQz911w3>
 - Stream - An RSS Reader <https://testflight.apple.com/join/auxSqon8>
 - FullPlayer <https://testflight.apple.com/join/HktpUEoB>
+- Hipstamatic X Analog Camera <https://testflight.apple.com/join/By8fKrxM>
 
 ---
 
