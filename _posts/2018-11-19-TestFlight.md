@@ -292,7 +292,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 
 ---
 
-更多 TestFlight:<https://testflight.center>
+更多 TestFlight:<https://t.me/TestFlightX>
 
 > 转载请注明原文出处:[iOS App 测试版 TestFlight 邀请链接分享](https://congcong0806.github.io/2018/11/19/TestFlight)
 
