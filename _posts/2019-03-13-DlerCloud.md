@@ -23,9 +23,8 @@ Dler Cloud, 一家很稳很强的机场，速度相当不错，维护也很及�
 `lhie1` 大佬爱折腾新技术，机场支持 Surge/Clash 托管、SSR/SS/SSD/V2Ray 订阅、Surfboard 配置、一键导入Quantumult/Shadowrocket/Surfboard；<br>
 还支持Surge iOS 3.4 和Surge Mac 3 最新的 Proxy list 分组订阅功能，可以自定义服务器节点列表。
 
-注册购买:[https://dlercloud.co](https://dlercloud.co/auth/register?affid=8079)<br>
-<!--(获取邀请码联系[聪聪 Bot]: <https://t.me/congcongx_botx_bot>)<br>-->
-官方网站:[https://dlercloud.co](https://dlercloud.co/auth/register?affid=8079)<br>
+(2019-09-18 最近站长出差,节点没维护,暂时别买)<br/>
+注册购买 → <https://bit.ly/2kFIfub><br/>
 文档中心:<https://docs.lhie1.com/black-hole>
 
 Telegram 官方群组:<https://t.me/dlercloud_talk><br>
