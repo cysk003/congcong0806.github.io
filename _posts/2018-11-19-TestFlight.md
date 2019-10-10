@@ -159,6 +159,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 
 ---
 
+- Lantern <https://testflight.apple.com/join/bESvTwBI>
 - Pharos lite <https://testflight.apple.com/join/DAs8hpAh>
 - Kitsunebi <https://testflight.apple.com/join/IdFRwmNy>
 - A.BIG.T IV <https://testflight.apple.com/join/3aArQFMQ>
