@@ -156,6 +156,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - FullPlayer <https://testflight.apple.com/join/HktpUEoB>
 - Hipstamatic X Analog Camera <https://testflight.apple.com/join/By8fKrxM>
 - Scriptable <https://testflight.apple.com/join/uN1vTqxk>
+- TG-电报 <https://testflight.apple.com/join/njOfcmIw>
 
 ---
 
