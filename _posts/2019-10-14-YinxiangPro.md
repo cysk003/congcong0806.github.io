@@ -23,6 +23,8 @@ tags:                               #标签
 ##### 功能区别
 ![](http://ww1.sinaimg.cn/large/9b84e6acly1g7s14pbvb1j20ro0oqhdu.jpg)
 
+官宣: <https://mp.weixin.qq.com/s/JrFirDliEMxmmmorDzdcuA>
+
 ##### 说明
 1. 已有免费/标准/高级账户的已有的功能和价格并没有变化
 2. 已经是高级账户的,只需要再购买一年的专业版账户,所有时长全部升为专业版;比如你的高级帐户还剩500天,再购买一年专业账户,专业账户的时长变为:500+365天
