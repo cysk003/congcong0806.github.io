@@ -22,7 +22,8 @@ tags:                               #标签
 
 专业帐户 早鸟价: 6 折升级<br>
 「高级帐户」用户感恩回馈：买一年，整单升级（买一年专业帐户 = 一年专业帐户 + 购买前高级帐户剩余时长免费升级为专业帐户）<br>
-活动时间：即日起至2019年10月22日
+活动时间: 即日起至2019年10月22日<br>
+升级地址: <http://app.yinxiang.com/subscriptions/manage>
 
 ##### 功能区别
 ![](http://ww1.sinaimg.cn/large/9b84e6acly1g7s14pbvb1j20ro0oqhdu.jpg)
