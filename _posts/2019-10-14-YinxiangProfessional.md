@@ -26,7 +26,7 @@ tags:                               #标签
 升级地址: <http://app.yinxiang.com/subscriptions/manage>
 
 ##### 功能区别
-![](http://ww1.sinaimg.cn/large/9b84e6acly1g7s14pbvb1j20ro0oqhdu.jpg)
+![](http://ww1.sinaimg.cn/large/9b84e6acly1g7z726e4fhj21io1f4dqe.jpg)
 
 官网介绍: <https://www.yinxiang.com/pricing/professional><br>
 官宣: <https://mp.weixin.qq.com/s/JrFirDliEMxmmmorDzdcuA>
