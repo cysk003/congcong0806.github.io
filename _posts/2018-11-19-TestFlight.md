@@ -60,6 +60,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Google Chrome <https://testflight.apple.com/join/LPQmtkUs>
 - Firefox Beta <https://testflight.apple.com/join/JdsubPZs>
 - Opera <https://testflight.apple.com/join/ASrCFVHB>
+- Pin <https://testflight.apple.com/join/dJwy1mS1>
 - 1Blocker X <https://testflight.apple.com/join/KjmVWFnT>
 - MOZE 3.0 <https://testflight.apple.com/join/56S0omVh>
 - Tumblr <https://testflight.apple.com/join/nTNSXGV3>
