@@ -114,7 +114,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - WordPress <https://testflight.apple.com/join/AkJQt8Pw>
 - BeSafe <https://testflight.apple.com/join/ICUaKS17>
 - 网盘搜索-资源搜索神器 <https://testflight.apple.com/join/k02d3pgQ>
-- Working Copy <https://testflight.apple.com/join/i4dpUz7J>
+- Working Copy <https://testflight.apple.com/join/zL3ICb6K>
 - Pythonista 3 <https://testflight.apple.com/join/qDkBu2ur>
 - Imgur <https://testflight.apple.com/join/Qd42y5Pw>
 - Infltr <https://testflight.apple.com/join/In6e3GcJ>
