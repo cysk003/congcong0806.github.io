@@ -158,6 +158,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Hipstamatic X Analog Camera <https://testflight.apple.com/join/By8fKrxM>
 - Scriptable <https://testflight.apple.com/join/uN1vTqxk>
 - TG-电报 <https://testflight.apple.com/join/njOfcmIw>
+- FlyChat <https://testflight.apple.com/join/1UCaD5p9>
 - Unicode Keyboard <https://testflight.apple.com/join/YKH3kGpt>
 - KMPlayer <https://testflight.apple.com/join/9V26Ee9Z>
 
