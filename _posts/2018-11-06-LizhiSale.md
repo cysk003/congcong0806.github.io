@@ -1,12 +1,12 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      数码荔枝 11.11 年度大促开始了，折上折的优惠！               # 标题 
-subtitle:    #副标题
+title:     数码荔枝 11.11 年度大促开始了，折上折的优惠！               # 标题 
+subtitle:  #副标题
 date:       2018-11-06              # 时间
 author:     聪聪                      # 作者
 header-img:     #这篇文章标题背景图片
 catalog: true                       # 是否归档
-tags:                               #标签
+tags:：                               #标签
     - App
 
 ---
@@ -17,7 +17,7 @@ tags:                               #标签
 
 我们的好朋友[「数码荔枝」](https://www.lizhi.io)双 11 年度大促已经正式开始，这是他们一年一次最大规模的全店促销活动，也很可能是你一年中买软件最省的时候。
 
-几个重点:
+几个重点：
 
 - 一大波精品软件的双 11 折扣让利，**最低 5 折！**
 - 其他没有双 11 折扣的店内软件，全场 9.5 折。
@@ -32,7 +32,7 @@ tags:                               #标签
 
 ###### 01 **全店百款精选软件 5 折起**
 
-数码荔枝今年双 11 的促销有这几个特点:顶级，量多，折扣大！
+数码荔枝今年双 11 的促销有这几个特点：顶级，量多，折扣大！
 
 **顶级！**
 
@@ -104,10 +104,10 @@ tags:                               #标签
 
 ![](http://ww1.sinaimg.cn/large/9b84e6acgy1fwy9q4ur6pj20xc09rjth.jpg)
 
-数码荔枝 Telegram 群组:<https://t.me/joinchat/C8fnOFRTu1kqa0tcKfTGoQ><br>
-数码荔枝 Telegram 频道:<https://t.me/digitalychee>
+数码荔枝 Telegram 群组：<https://t.me/joinchat/C8fnOFRTu1kqa0tcKfTGoQ><br>
+数码荔枝 Telegram 频道：<https://t.me/digitalychee>
 
-> 转载请注明原文出处:[数码荔枝 11.11 年度大促开始了，折上折的优惠！](https://congcong0806.github.io/2018/11/06/LizhiSale)
+> 转载请注明原文出处：[数码荔枝 11.11 年度大促开始了，折上折的优惠！](https://congcong0806.github.io/2018/11/06/LizhiSale)
 
 ---
 
@@ -115,10 +115,10 @@ tags:                               #标签
 <https://congcong0806.github.io/2018/09/03/App>
 
 ##### 聪聪
-&copy;聪聪:印象笔记资深印象大使 | 印象笔记年度象亲 | 坚果云效率大使 | 幕布布道师
+&copy;聪聪：印象笔记资深印象大使 | 印象笔记年度象亲 | 坚果云效率大使 | 幕布布道师
 
-* Telegram 私聊:<https://t.me/congcongx_bot>
-* Telegram 社群:<https://t.me/YinxiangBiji>
-* Telegram 频道:<https://t.me/YinxiangBiji_News>
+* Telegram 私聊：<https://t.me/congcongx_bot>
+* Telegram 社群：<https://t.me/YinxiangBiji>
+* Telegram 频道：<https://t.me/YinxiangBiji_News>
 
 ![聪聪](https://i.v2ex.co/3wc207g5.png)

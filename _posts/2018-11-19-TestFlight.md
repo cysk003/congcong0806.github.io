@@ -1,17 +1,17 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      iOS App 测试版 TestFlight 邀请链接分享               # 标题 
-subtitle:    #副标题
+title:     iOS App 测试版 TestFlight 邀请链接分享               # 标题 
+subtitle:  #副标题
 date:       2018-11-19              # 时间
 author:     聪聪                      # 作者
 header-img:     #这篇文章标题背景图片 image/liqi volunteer.jpeg
 catalog: true                       # 是否归档
-tags:                               #标签
+tags:：                               #标签
     - App
     - TestFlight
 
 ---
-> 转载请注明原文出处:[iOS App 测试版 TestFlight 邀请链接分享](https://congcong0806.github.io/2018/11/19/TestFlight)
+> 转载请注明原文出处：[iOS App 测试版 TestFlight 邀请链接分享](https://congcong0806.github.io/2018/11/19/TestFlight)
 
 ##### 介绍
 
@@ -24,13 +24,13 @@ TestFlight - iOS App 测试版发布渠道
 
 但是 TestFlight 并不是用来获取 App 免费版的方式，更不是永久的，目前一个 TestFlight 版本最长可是用90 天，而且一个 App 的 TestFlight 人数也有限制的，目前是1W。
 
-TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
+TestFlight 下载地址：<https://itunes.apple.com/cn/app/testflight/id899247664>
 
-如何使用 TestFlight 参与 App 测试:<https://sspai.com/post/27311>
+如何使用 TestFlight 参与 App 测试：<https://sspai.com/post/27311>
 
 ###### 链接分享
 
-点击链接加入测试版:
+点击链接加入测试版：
 
 - Surge 3 <https://nssurge.com/account>
 - Microsoft Word <https://testflight.apple.com/join/hw76phYi>
@@ -135,7 +135,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Color Defense <https://testflight.apple.com/join/uWKe9m1h>
 - KyPass 4 密码管理 <https://testflight.apple.com/join/wlZmOo9t>
 - MK播放器 <https://testflight.apple.com/join/qUEu2p3L>
-- Focus Buddy: Next Study Timer <https://testflight.apple.com/join/gBcR6FXj>
+- Focus Buddy： Next Study Timer <https://testflight.apple.com/join/gBcR6FXj>
 - Wax for iPhone <https://testflight.apple.com/join/PnKidEdF>
 - Notes Plus <https://testflight.apple.com/join/DHJexhQq>
 - 易有云 <https://testflight.apple.com/join/Pl4jm65I>
@@ -147,7 +147,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - 期待 <https://testflight.apple.com/join/i37NXl07>
 - V2LF <https://testflight.apple.com/join/cvx4MQuh>
 - Sky Beta <https://testflight.apple.com/join/S41tc3c0>
-- Feeds - All the Web, One Feed <https://testflight.apple.com/join/YBFNq1bw>
+- Feeds - All the Web， One Feed <https://testflight.apple.com/join/YBFNq1bw>
 - Wissen PDF reader <https://testflight.apple.com/join/HvCrp5Th>
 - 酷安酷图 <https://testflight.apple.com/join/9ennNtu2>
 - Cats & Dogs <https://testflight.apple.com/join/rGDBZ3hs>
@@ -186,7 +186,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Hotspot+VPN Tor Browser Proxy <https://testflight.apple.com/join/bKAEdVG3>
 - ShadowCoel <https://testflight.apple.com/join/2zWsHa9a>
 - LetsVPN <https://testflight.apple.com/join/qEtCVBNq>
-- 1.1.1.1: Faster Internet <https://testflight.apple.com/join/QKqitFwc>
+- 1.1.1.1： Faster Internet <https://testflight.apple.com/join/QKqitFwc>
 
 ---
 
@@ -235,7 +235,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Quiz Viajero <https://testflight.apple.com/join/B4BYAvTy>
 - Stadtfahrt <https://testflight.apple.com/join/5WU4HTVy>
 - Imgur <https://testflight.apple.com/join/Qd42y5Pw>
-- Buffer: Social Media Manager <https://testflight.apple.com/join/DOpMcusn>
+- Buffer： Social Media Manager <https://testflight.apple.com/join/DOpMcusn>
 - BalloonPopp-AR <https://testflight.apple.com/join/h4FdKDMN>
 - Cinema Time <https://testflight.apple.com/join/wcY5wC6H>
 - Smooz Browser <https://testflight.apple.com/join/53f970RC>
@@ -266,7 +266,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - CARROT Fit <https://testflight.apple.com/join/rhsofJcx>
 - Beatwave <https://testflight.apple.com/join/2ZowJ3D3>
 - TV Time - #1 Show Tracker <https://testflight.apple.com/join/hjKkDsc4>
-- Buffer: Social Media Manager <https://testflight.apple.com/join/DOpMcusn>
+- Buffer： Social Media Manager <https://testflight.apple.com/join/DOpMcusn>
 - AnyList <https://testflight.apple.com/join/xwvLPc6o>
 - Andrana Project <https://testflight.apple.com/join/RorSFmpx>
 - ilo <https://testflight.apple.com/join/LbF5nuDu>
@@ -283,9 +283,9 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Color Capture <https://testflight.apple.com/join/7JecM2hD>
 - Holo Ball <https://testflight.apple.com/join/UslXTcn2>
 - Jetsam <https://testflight.apple.com/join/C57z8lm0>
-- Power 9 - Magic: The Gathering <https://testflight.apple.com/join/hKI4xKRj>
+- Power 9 - Magic： The Gathering <https://testflight.apple.com/join/hKI4xKRj>
 - Road Trip <https://testflight.apple.com/join/mfxR5OPR>
-- Bello: Safety app for cyclists <https://testflight.apple.com/join/kONQhQtO>
+- Bello： Safety app for cyclists <https://testflight.apple.com/join/kONQhQtO>
 - StarPlayrX <https://testflight.apple.com/join/Ecz0xXvf>
 - Torus.wallet <https://testflight.apple.com/join/Rkh83mtc>
 - Almost Impossible! 2 <https://testflight.apple.com/join/9orkRXOg>
@@ -298,9 +298,9 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 
 ---
 
-更多 TestFlight:<https://t.me/TestFlightX>
+更多 TestFlight：<https://t.me/TestFlightX>
 
-> 转载请注明原文出处:[iOS App 测试版 TestFlight 邀请链接分享](https://congcong0806.github.io/2018/11/19/TestFlight)
+> 转载请注明原文出处：[iOS App 测试版 TestFlight 邀请链接分享](https://congcong0806.github.io/2018/11/19/TestFlight)
 
 ---
 
@@ -308,10 +308,10 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 <https://congcong0806.github.io/2018/09/03/App>
 
 ##### 聪聪
-&copy;聪聪:印象笔记资深印象大使 | 印象笔记年度象亲 | 坚果云效率大使 | 幕布布道师
+&copy;聪聪：印象笔记资深印象大使 | 印象笔记年度象亲 | 坚果云效率大使 | 幕布布道师
 
-* Telegram 私聊:<https://t.me/congcongx_bot>
-* Telegram 社群:<https://t.me/YinxiangBiji>
-* Telegram 频道:<https://t.me/YinxiangBiji_News>
+* Telegram 私聊：<https://t.me/congcongx_bot>
+* Telegram 社群：<https://t.me/YinxiangBiji>
+* Telegram 频道：<https://t.me/YinxiangBiji_News>
 
 ![聪聪](https://i.v2ex.co/3wc207g5.png)
