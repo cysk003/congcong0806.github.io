@@ -1,19 +1,19 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:     Mac 顶级应用 PDF Expert 要涨价？用比半价更低的价格拿下它               # 标题 
-subtitle:  #副标题
+title:      Mac 顶级应用 PDF Expert 要涨价？用比半价更低的价格拿下它               # 标题 
+subtitle:    #副标题
 date:       2018-10-29              # 时间
 author:     聪聪                      # 作者
 header-img:     #这篇文章标题背景图片
 catalog: true                       # 是否归档
-tags:：                               #标签
+tags:                               #标签
     - App
 
 ---
 
 ##### Mac 顶级应用 PDF Expert 要涨价？用比半价更低的价格拿下它
 
-作者：数码荔枝
+作者:数码荔枝
 
 PDF Expert 是 macOS 上一款全能型 PDF 编辑工具。它集阅读、创建、编辑批注等功能于一身，但仍轻巧易用，美观的设计与 macOS 本身相得益彰，一经发布便获得众多好评，多次被 Apple 编辑推荐，还是 Mac App Store 2015 年最佳应用。
 
@@ -85,10 +85,10 @@ PDF Expert 支持编辑文档大纲，你可以通过拖动目录来调整顺序
 - 点击链接领取 [聪聪] ¥5 元专属优惠券 > <https://partner.lizhi.io/congcong/pdf_expert_for_mac>
 - [前往「数码荔枝」商城选购 PDF Expert >](https://partner.lizhi.io/congcong/pdf_expert_for_mac) 
 
-数码荔枝 Telegram 群组：<https://t.me/joinchat/C8fnOFRTu1kqa0tcKfTGoQ><br>
-数码荔枝 Telegram 频道：<https://t.me/digitalychee>
+数码荔枝 Telegram 群组:<https://t.me/joinchat/C8fnOFRTu1kqa0tcKfTGoQ><br>
+数码荔枝 Telegram 频道:<https://t.me/digitalychee>
 
-> 转载请注明原文出处：[Mac 顶级应用 PDF Expert 要涨价？用比半价更低的价格拿下它](https://congcong0806.github.io/2018/10/29/PdfExpertforMac)
+> 转载请注明原文出处:[Mac 顶级应用 PDF Expert 要涨价？用比半价更低的价格拿下它](https://congcong0806.github.io/2018/10/29/PdfExpertforMac)
 
 ---
 
@@ -96,10 +96,10 @@ PDF Expert 支持编辑文档大纲，你可以通过拖动目录来调整顺序
 <https://congcong0806.github.io/2018/09/03/App>
 
 ##### 聪聪
-&copy;聪聪：印象笔记资深印象大使 | 印象笔记年度象亲 | 坚果云效率大使 | 幕布布道师
+&copy;聪聪:印象笔记资深印象大使 | 印象笔记年度象亲 | 坚果云效率大使 | 幕布布道师
 
-* Telegram 私聊：<https://t.me/congcongx_bot>
-* Telegram 社群：<https://t.me/YinxiangBiji>
-* Telegram 频道：<https://t.me/YinxiangBiji_News>
+* Telegram 私聊:<https://t.me/congcongx_bot>
+* Telegram 社群:<https://t.me/YinxiangBiji>
+* Telegram 频道:<https://t.me/YinxiangBiji_News>
 
 ![聪聪](https://i.v2ex.co/3wc207g5.png)
