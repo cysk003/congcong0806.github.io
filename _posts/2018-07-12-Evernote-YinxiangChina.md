@@ -61,24 +61,24 @@ tags:                               #标签
 
 	印象笔记-中国版:
 	1. logo:绿底黑大象的图标
-	2. Markdown 笔记
-	3. 便签
-	4. 密码锁
-	5. iOS Widget 剪藏
-	6. 微信注册/登录
-	7. 手机号注册/登录
-	8. 分享笔记给微信好友/群组
-	9. 分享笔记到 QQ 空间
-	10. 自定义模板
-	11. 任务清单
-	12. 思维导图
-	13. 素材库
-	14. 全新网页版模块化编辑器
-	15. OCR提取图上文字
-	16. 助理
+	2. Markdown 笔记(Mac,Win)
+	3. 便签(Mac,Win)
+	4. 密码锁(Win)
+	5. iOS Widget 剪藏(iOS)
+	6. 微信注册/登录(Mac,Win,Web,iOS,Android)
+	7. 手机号注册/登录(Mac,Win,Web,iOS,Android)
+	8. 分享笔记给微信好友/群组(iOS,Android)
+	9. 分享笔记到 QQ 空间(Android)
+	10. 自定义模板(Mac,Win,iOS,Android)
+	11. 任务清单(Mac,iOS,Android)
+	12. 思维导图(Mac,Win)
+	13. 素材库(Mac,iOS)
+	14. 全新网页版模块化编辑器(Web)
+	15. OCR提取图上文字(iOS,Android)
+	16. 助理(iOS)
 	16. 协作
-	17. 官方笔记本
-	18. 印象阅读
+	17. 官方笔记本(Mac,Win,iOS,Android)
+	18. 印象阅读(Android)
 
 	Evernote App:
 	1. logo:白底绿大象的图标
