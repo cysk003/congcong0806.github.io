@@ -43,16 +43,16 @@ tags:                               #标签
 	1. 标准帐户:¥98元/年,高级帐户:¥148元/年,专业帐户:¥198元/年
 	3. 保存微信公众号文章到"我的印象笔记"
 	4. 保存微博到"我的印象笔记"
-	5. 微信注册/登录
-	6. 手机号注册/登录
-	7. 分享笔记到微信好友/群组
-	8. 分享笔记到 QQ 空间
-	9. 公开链接分享
-	10. 任务清单
-	11. 思维导图
-	12. 素材库
-	13. 全新网页版模块化编辑器
-	14. OCR提取图上文字
+	5. 微信注册/登录(Mac,Win,Web,iOS,Android)
+	6. 手机号注册/登录(Mac,Win,Web,iOS,Android)
+	7. 分享笔记到微信好友/群组(iOS,Android)
+	8. 分享笔记到 QQ 空间(Android)
+	9. 公开链接分享(Mac,Win,iOS,Android)
+	10. 任务清单(Mac,iOS,Android)
+	11. 思维导图(Mac,Win)
+	12. 素材库(Mac,iOS)
+	13. 全新网页版模块化编辑器(Web)
+	14. OCR提取图上文字(iOS,Android)
 	15. 协作
 	17. 官网: https://www.yinxiang.com
 
@@ -63,6 +63,8 @@ tags:                               #标签
 	4. 公开链接分享
 	5. 添加 Google Drive 文件
 	6. 官网: https://evernote.com
+
+	功能区别: <https://congcong0806.github.io/2018/07/12/Evernote-YinxiangChina>
 
 8，印象笔记 Evernote 迁移笔记到另一个账号的两个方法:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<http://www.jianshu.com/p/860233c903c7><br/>
