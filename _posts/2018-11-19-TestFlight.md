@@ -162,6 +162,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - FlyChat <https://testflight.apple.com/join/1UCaD5p9>
 - Unicode Keyboard <https://testflight.apple.com/join/YKH3kGpt>
 - KMPlayer <https://testflight.apple.com/join/9V26Ee9Z>
+- 尺素 <https://testflight.apple.com/join/hyppXi3U>
 
 ---
 
