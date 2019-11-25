@@ -62,6 +62,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Firefox Beta <https://testflight.apple.com/join/JdsubPZs>
 - Opera <https://testflight.apple.com/join/ASrCFVHB>
 - Pin <https://testflight.apple.com/join/dJwy1mS1>
+- Paste 2 <https://testflight.apple.com/join/Z9mHMGxq>
 - 1Blocker X <https://testflight.apple.com/join/KjmVWFnT>
 - MOZE 3.0 <https://testflight.apple.com/join/56S0omVh>
 - Tumblr <https://testflight.apple.com/join/nTNSXGV3>
@@ -78,7 +79,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Wikipedia <https://testflight.apple.com/join/Z0AU0KXC>
 - Twitterrific 5 <https://testflight.apple.com/join/1G3zEeId>
 - Launch Center Pro <https://testflight.apple.com/join/DpujKg3U>
-- Picsew v3.0 <https://testflight.apple.com/join/p68up4N3>
+- Picsew <https://testflight.apple.com/join/nY8mCbA3>
 - Xbox <https://testflight.apple.com/join/dfUeaFHS>
 - Signal <https://testflight.apple.com/join/8FHtd1Jq>
 - Aurora Reader <https://testflight.apple.com/join/3KgOyweE>
@@ -172,7 +173,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - A.BIG.T IV <https://testflight.apple.com/join/3aArQFMQ>
 - Potatso Lite <https://testflight.apple.com/join/NkF46PRd>
 - BananaNet <https://testflight.apple.com/join/v5x8B81b>
-- Thor <https://testflight.apple.com/join/wArXdacJ>
+- Thor <https://testflight.apple.com/join/2vnRvOTX>
 - Shu - Magic File Viewer beta <https://testflight.apple.com/join/4nss4sdk>
 - WhaleBlue <https://testflight.apple.com/join/jtBRluFe>
 - Mume VPN <https://testflight.apple.com/join/wgXjVEh8>
