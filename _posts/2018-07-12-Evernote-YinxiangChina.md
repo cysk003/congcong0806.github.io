@@ -70,7 +70,7 @@ tags:                               #标签
 	8. 分享笔记给微信好友/群组(iOS,Android)
 	9. 分享笔记到 QQ 空间(Android)
 	10. 自定义模板(Mac,Win,iOS,Android)
-	11. 任务清单(Mac,iOS,Android)
+	11. 任务清单(Mac,Win,iOS,Android)
 	12. 思维导图(Mac,Win)
 	13. 素材库(Mac,iOS)
 	14. 全新网页版模块化编辑器(Web)
