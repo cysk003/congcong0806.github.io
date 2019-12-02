@@ -102,7 +102,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - DropZap World <https://testflight.apple.com/join/CdEXgjst>
 - Up - File transfer & sharing <https://testflight.apple.com/join/pgni34xJ>
 - Quik - GoPro 视频编辑器 <https://testflight.apple.com/join/grBiK0aL>
-- QQ音乐 <https://testflight.apple.com/join/s5wwLCur>
+- QQ音乐 <https://testflight.apple.com/join/hBF4PAO7>
 - Outcast for Watch <https://testflight.apple.com/join/NFhBJlx3>
 - HealthFace <https://testflight.apple.com/join/svD0JS3Z>
 - Streaks Workou <https://testflight.apple.com/join/OqYBblCA>
