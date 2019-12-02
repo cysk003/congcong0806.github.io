@@ -48,7 +48,7 @@ tags:                               #标签
 	7. 分享笔记到微信好友/群组(iOS,Android)
 	8. 分享笔记到 QQ 空间(Android)
 	9. 公开链接分享(Mac,Win,iOS,Android)
-	10. 任务清单(Mac,iOS,Android)
+	10. 任务清单(Mac,Win,iOS,Android)
 	11. 思维导图(Mac,Win)
 	12. 素材库(Mac,iOS)
 	13. 全新网页版模块化编辑器(Web)
