@@ -16,7 +16,7 @@ tags:                               #标签
 SS/SSR 简介和客户端下载:<https://congcong0806.github.io/2018/04/20/SS>
 
 Dler Cloud, 一家很稳很强的机场，速度相当不错，维护也很及时，`lhie1` 大佬的技术也很好。<br>
-机场包括部分中继节点，港台日等地区节点也挺多，120+节点，包括国际标准节点、国际高级节点、国际优化节点、中国大陆节点等等。
+机场包括部分中继节点，港台日等地区节点也挺多，120+节点，有"国际标准节点-Global,大陆中继节点-BGP,中国大陆节点-BGP,国际专线节点-IPLC,大陆优化节点-Pro"节点。
 
 这是 Surge/Shadowrocket/Quantumult 规则大佬 `lhie1` 的机场，不少人都在用他的规则。规则地址:<https://github.com/lhie1/Rules>
 
@@ -48,7 +48,7 @@ Telegram 公告中心:<https://t.me/dlercloud_news>
 <https://congcong0806.github.io/2018/09/03/App>
 
 ##### 聪聪
-&copy;聪聪:印象笔记资深印象大使 | 印象笔记年度象亲 | 坚果云效率大使 | 幕布布道师
+&copy;聪聪:印象笔记资深印象大使,印象笔记年度象亲,坚果云效率大使,幕布布道师
 
 * Telegram 私聊:<https://t.me/congcongx_bot>
 * Telegram 社群:<https://t.me/YinxiangBiji>
