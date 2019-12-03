@@ -71,6 +71,10 @@ tags:                               #标签
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<http://www.jianshu.com/p/c2fdad6ad031><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;个人推荐第一个方法
 
+9，Chrome Evernote 剪藏登录国内版和国际版账户
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chrome 语言设置,把「简体中文」放到第一,重启Chrome,登录就是印象笔记 国内版账户登录
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chrome 语言设置,把「英语」放到第一,重启Chrome,登录就是Evernote 国际版账户登录
+
 > 转载请注明原文出处:[印象笔记(国内版)和 Evernote International (国际版)是什么区别](https://congcong0806.github.io/2018/04/24/evernote-yinxiang)
 
 - - - -
