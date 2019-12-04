@@ -51,6 +51,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Nicegram <https://testflight.apple.com/join/e07wV6pl>
 - TelePlus <https://testflight.apple.com/join/LQ2GXZag>
 - Ulysses <https://testflight.apple.com/join/RXVdMPW1>
+- Bear <https://testflight.apple.com/join/OZw3KhEz>
 - 1Password <https://testflight.apple.com/join/flDiG5AU>
 - Enpass Password Manager <https://testflight.apple.com/join/hIec0gli>
 - Day One <https://testflight.apple.com/join/NXLBigzY>
