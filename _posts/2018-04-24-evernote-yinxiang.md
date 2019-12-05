@@ -53,7 +53,8 @@ tags:                               #标签
 	12. 素材库(Mac,iOS)
 	13. 全新网页版模块化编辑器(Web)
 	14. OCR提取图上文字(iOS,Android)
-	15. 协作
+	15. 空间(Win,iOS,Android)
+	16. 协作
 	17. 官网: https://www.yinxiang.com
 
 	国际版:
