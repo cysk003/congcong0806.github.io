@@ -22,7 +22,7 @@ Dler Cloud, 一家很稳很强的机场，速度相当不错，维护也很及�
 
 lhie1 大佬爱折腾新技术，对客户端支持全面，支持 Surge/Clash/Surfboard托管、SS/SSD/V2Ray订阅、Quantumult X配置、一键导入Quantumult/Shadowrocket/Surfboard；<br>
 全节点支持SS,V2Ray, 还支持Surge 4 Proxy List和Quantumult X List功能，还可以自定义服务器节点列表。<br/>
-套餐: ¥98/季, ¥228/年, ¥328/年, ¥448/年, ¥668/年, ¥888/年, ¥1888/年, ¥3000/年<br/>
+套餐: ¥98/季, ¥228/年, ¥328/年, ¥488/年, ¥668/年, ¥888/年, ¥1888/年, ¥3000/年<br/>
 
 注册购买 → <https://bit.ly/2kFIfub><br/>
 文档中心:<https://docs.lhie1.com/black-hole>
