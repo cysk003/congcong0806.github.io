@@ -91,6 +91,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - VLC for Mobile <https://testflight.apple.com/join/bbyXP6Lx>
 - Kaspersky Security Cloud <https://testflight.apple.com/join/yst7K78b>
 - 网易云音乐 <https://testflight.apple.com/join/iNbrKSVg>
+- 网易云音乐HD <https://testflight.apple.com/join/GwCTzswA>
 - 讯飞输入法 <https://testflight.apple.com/join/P7p592l7>
 - 简书 iOS <https://testflight.apple.com/join/qlNiqNNA>
 - 滴答清单 TickTick <https://testflight.apple.com/join/lCgZjMit>
