@@ -92,6 +92,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Kaspersky Security Cloud <https://testflight.apple.com/join/yst7K78b>
 - 网易云音乐 <https://testflight.apple.com/join/iNbrKSVg>
 - 网易云音乐HD <https://testflight.apple.com/join/GwCTzswA>
+- 百度输入法 <https://testflight.apple.com/join/XYi3WF6G>
 - 讯飞输入法 <https://testflight.apple.com/join/P7p592l7>
 - 简书 iOS <https://testflight.apple.com/join/qlNiqNNA>
 - 滴答清单 TickTick <https://testflight.apple.com/join/lCgZjMit>
@@ -176,6 +177,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Potatso Lite <https://testflight.apple.com/join/NkF46PRd>
 - BananaNet <https://testflight.apple.com/join/v5x8B81b>
 - Thor <https://testflight.apple.com/join/2vnRvOTX>
+- Anubis <https://testflight.apple.com/join/LzjySbQx>
 - Shu - Magic File Viewer beta <https://testflight.apple.com/join/4nss4sdk>
 - WhaleBlue <https://testflight.apple.com/join/jtBRluFe>
 - Mume VPN <https://testflight.apple.com/join/wgXjVEh8>
