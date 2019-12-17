@@ -90,6 +90,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - K Music Player 3 Ultimate <https://testflight.apple.com/join/61zjD0e6>
 - VLC for Mobile <https://testflight.apple.com/join/bbyXP6Lx>
 - Kaspersky Security Cloud <https://testflight.apple.com/join/yst7K78b>
+- 知乎 <https://testflight.apple.com/join/TX83Mn7J>
 - 网易云音乐 <https://testflight.apple.com/join/iNbrKSVg>
 - 网易云音乐HD <https://testflight.apple.com/join/GwCTzswA>
 - 百度输入法 <https://testflight.apple.com/join/XYi3WF6G>
