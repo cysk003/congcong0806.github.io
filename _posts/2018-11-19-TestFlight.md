@@ -54,6 +54,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Bear <https://testflight.apple.com/join/OZw3KhEz>
 - 1Password <https://testflight.apple.com/join/flDiG5AU>
 - Enpass Password Manager <https://testflight.apple.com/join/hIec0gli>
+- Documents by Readdle <https://testflight.apple.com/join/EOPEVoDA>
 - Day One <https://testflight.apple.com/join/NXLBigzY>
 - WhatsApp <https://testflight.apple.com/join/s4rTJVPb>
 - 2Do <https://testflight.apple.com/join/McBV96Wi>
