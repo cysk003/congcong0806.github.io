@@ -171,6 +171,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Unicode Keyboard <https://testflight.apple.com/join/YKH3kGpt>
 - KMPlayer <https://testflight.apple.com/join/9V26Ee9Z>
 - 尺素 <https://testflight.apple.com/join/hyppXi3U>
+- IP.SB <https://testflight.apple.com/join/jPWh8ECP>
 
 ---
 
