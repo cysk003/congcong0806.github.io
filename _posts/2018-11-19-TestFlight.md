@@ -54,7 +54,8 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Drafts <https://testflight.apple.com/join/wHD1YVwY>
 - Bear <https://testflight.apple.com/join/OZw3KhEz>
 - 1Password <https://testflight.apple.com/join/flDiG5AU>
-- Enpass Password Manager <https://testflight.apple.com/join/hIec0gli>
+- Enpass <https://testflight.apple.com/join/hIec0gli>
+- KyPass 4 <https://testflight.apple.com/join/wlZmOo9t>
 - Documents by Readdle <https://testflight.apple.com/join/EOPEVoDA>
 - Day One <https://testflight.apple.com/join/NXLBigzY>
 - WhatsApp <https://testflight.apple.com/join/s4rTJVPb>
@@ -143,7 +144,6 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Quizlet <https://testflight.apple.com/join/mwhcPqxJ>
 - Yamble <https://testflight.apple.com/join/sWspgco2>
 - Color Defense <https://testflight.apple.com/join/uWKe9m1h>
-- KyPass 4 密码管理 <https://testflight.apple.com/join/wlZmOo9t>
 - MK播放器 <https://testflight.apple.com/join/qUEu2p3L>
 - Focus Buddy: Next Study Timer <https://testflight.apple.com/join/gBcR6FXj>
 - Wax for iPhone <https://testflight.apple.com/join/PnKidEdF>
