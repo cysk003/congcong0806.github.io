@@ -60,6 +60,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Day One <https://testflight.apple.com/join/NXLBigzY>
 - WhatsApp <https://testflight.apple.com/join/s4rTJVPb>
 - 2Do <https://testflight.apple.com/join/McBV96Wi>
+- Infuse Pro 6 <https://testflight.apple.com/join/iLiXoZi4>
 - Snapchat <https://testflight.apple.com/join/yP1ZHFr0>
 - OmniPlan 3 <https://testflight.apple.com/join/kOOQHIoR>
 - Google Chrome <https://testflight.apple.com/join/LPQmtkUs>
@@ -95,13 +96,13 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - VLC for Mobile <https://testflight.apple.com/join/bbyXP6Lx>
 - Kaspersky Security Cloud <https://testflight.apple.com/join/yst7K78b>
 - iPhone 滚动截屏工具 <https://testflight.apple.com/join/BwJotO7r>
+- 滴答清单 TickTick <https://testflight.apple.com/join/enbplyH1>
 - 知乎 <https://testflight.apple.com/join/TX83Mn7J>
 - 网易云音乐 <https://testflight.apple.com/join/iNbrKSVg>
 - 网易云音乐HD <https://testflight.apple.com/join/GwCTzswA>
 - 百度输入法 <https://testflight.apple.com/join/XYi3WF6G>
 - 讯飞输入法 <https://testflight.apple.com/join/P7p592l7>
 - 简书 iOS <https://testflight.apple.com/join/qlNiqNNA>
-- 滴答清单 TickTick <https://testflight.apple.com/join/lCgZjMit>
 - Simple Tasks 2 <https://testflight.apple.com/join/I5ZvVKyh>
 - Allegory <https://testflight.apple.com/join/FsXXat52>
 - Opera Touch <https://testflight.apple.com/join/ASrCFVHB>
