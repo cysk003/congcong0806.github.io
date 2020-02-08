@@ -176,6 +176,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - 尺素 <https://testflight.apple.com/join/hyppXi3U>
 - IP.SB <https://testflight.apple.com/join/jPWh8ECP>
 - Eastwatch <https://testflight.apple.com/join/SmfNOeJ2>
+- Stellaris: Galaxy Command <https://testflight.apple.com/join/L5aHAZLS>
 
 ---
 
