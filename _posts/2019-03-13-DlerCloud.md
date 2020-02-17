@@ -15,7 +15,7 @@ tags:                               #标签
 
 SS/SSR 简介和客户端下载:<https://congcong0806.github.io/2018/04/20/SS>
 
-Dler Cloud, 规则大佬 lhie1 的机场,120+节点,一家很稳很强的机场,速度相当不错,维护也很及时,有多条BGP和IPLC线路;<br>
+Dler Cloud, 规则大佬 lhie1 的机场,120+节点,一家很稳很强的机场,速度相当不错,维护也很及时,有多条BGP和IPLC线路,支持SS/SSR/V2Ray;<br>
 原生解锁：NETFLIX,FOX +,BILIBILI港澳台,爱奇艺台湾站,动画疯,四季线上影视,线电视<br/>
 
 这是 Surge/Shadowrocket/Quantumult 规则大佬 `lhie1` 的机场，不少人都在用他的规则。规则地址:<https://github.com/lhie1/Rules>
