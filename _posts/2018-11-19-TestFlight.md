@@ -178,6 +178,8 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Eastwatch <https://testflight.apple.com/join/SmfNOeJ2>
 - Stellaris: Galaxy Command <https://testflight.apple.com/join/L5aHAZLS>
 - LaunchCuts <https://testflight.apple.com/join/OVOtZGQ9>
+- The App List <https://testflight.apple.com/join/oV5HiCSz>
+- Astreos <https://testflight.apple.com/join/SHQFznkM>
 
 ---
 
