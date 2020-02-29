@@ -63,6 +63,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - 2Do <https://testflight.apple.com/join/McBV96Wi>
 - Infuse Pro 6 <https://testflight.apple.com/join/iLiXoZi4>
 - Snapchat <https://testflight.apple.com/join/yP1ZHFr0>
+- OmniFocus 3 <https://testflight.apple.com/join/1eaxIMbo>
 - OmniPlan 3 <https://testflight.apple.com/join/kOOQHIoR>
 - Google Chrome <https://testflight.apple.com/join/LPQmtkUs>
 - Firefox Beta <https://testflight.apple.com/join/JdsubPZs>
