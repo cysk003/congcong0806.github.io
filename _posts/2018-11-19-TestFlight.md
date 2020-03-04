@@ -183,6 +183,8 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - The App List <https://testflight.apple.com/join/oV5HiCSz>
 - Astreos <https://testflight.apple.com/join/SHQFznkM>
 - XYZManager-玲珑文件管理器 <https://testflight.apple.com/join/ae7vygrb>
+- 爱美剧 <https://testflight.apple.com/join/u1m4v3os>
+- LaunchCuts <https://testflight.apple.com/join/OVOtZGQ9>
 
 ---
 
