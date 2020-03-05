@@ -185,6 +185,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - XYZManager-玲珑文件管理器 <https://testflight.apple.com/join/ae7vygrb>
 - 爱美剧 <https://testflight.apple.com/join/u1m4v3os>
 - LaunchCuts <https://testflight.apple.com/join/OVOtZGQ9>
+- DNS更改器 <https://testflight.apple.com/join/w2Fq4FSH>
 
 ---
 
