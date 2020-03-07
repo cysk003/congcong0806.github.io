@@ -13,7 +13,8 @@ tags:                               #标签
 ---
 
 ##### 说明
-1，2018.6月，印象笔记中国团队独立了，客户端也会独立（在原Evernote 的基础上）开发和维护，[点击查看官方新闻](https://www.yinxiang.com/blog/blog/2018/06/06/evernote-an-independent-internet-enterprise/)
+1，2018.6月，印象笔记中国团队独立了，客户端也会独立（在原Evernote 的基础上）开发和维护，[点击查看官方新闻](https://www.yinxiang.com/blog/blog/2018/06/06/evernote-an-independent-internet-enterprise/)<br>
+关于印象笔记及Evernote国际版的服务说明: [点击查看](https://www.yinxiang.com/new/2020/03/06/%e5%85%b3%e4%ba%8e%e5%8d%b0%e8%b1%a1%e7%ac%94%e8%ae%b0%e5%8f%8aevernote%e5%9b%bd%e9%99%85%e7%89%88%e7%9a%84%e6%9c%8d%e5%8a%a1%e8%af%b4%e6%98%8e/)
 
 2，目前印象笔记-中国版 iOS 和 Mac 客户端已经上线App Store 国区，Android 客户端也已上架国内各个市场，Win 客户端已上架官网；<br>
 印象笔记-中国版客户端，采用了全新的应用图标，由中国团队独立研发运营，为中国用户的使用习惯和需求持续优化，使用更稳定；印象笔记-中国版客户端会增加一些本地化的功能。<br>
