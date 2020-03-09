@@ -86,6 +86,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Sleep Cycle <https://testflight.apple.com/join/8RcEFqFF>
 - Wikipedia <https://testflight.apple.com/join/Z0AU0KXC>
 - Twitterrific 5 <https://testflight.apple.com/join/1G3zEeId>
+- Facebook <https://testflight.apple.com/join/C1a3MRG4>
 - Launch Center Pro <https://testflight.apple.com/join/DpujKg3U>
 - Picsew <https://testflight.apple.com/join/nY8mCbA3>
 - Xbox <https://testflight.apple.com/join/dfUeaFHS>
@@ -102,6 +103,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Opera Touch <https://testflight.apple.com/join/ASrCFVHB>
 - To Dot <https://testflight.apple.com/join/7o1Q4Q8p>
 - my ToDo <https://testflight.apple.com/join/V4zOhaAT>
+- Craft Docs <https://testflight.apple.com/join/LDfvWgkZ>
 - DropZap World <https://testflight.apple.com/join/CdEXgjst>
 - Up - File transfer & sharing <https://testflight.apple.com/join/pgni34xJ>
 - Outcast for Watch <https://testflight.apple.com/join/NFhBJlx3>
