@@ -163,6 +163,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - WorldTally Client <https://testflight.apple.com/join/4lMd0X2C>
 - Bidesk App <https://testflight.apple.com/join/sxRQjvOe>
 - Collabora Office <https://testflight.apple.com/join/TEnBWi68>
+- Overdrop Weather <http://testflight.apple.com/join/9ZhoC6yu>
 - 手机淘宝 <https://testflight.apple.com/join/TThGL9RX>
 - 知乎 <https://testflight.apple.com/join/TX83Mn7J>
 - 迅雷Beta <https://testflight.apple.com/join/TeMz5XHg>
