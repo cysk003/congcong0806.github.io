@@ -79,18 +79,6 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书",
-        href: "http://www.jianshu.com/u/da1809147fba"
-    },
-    {
-        title: "推特",
-        href: "https://twitter.com/congcongxo"
-    },
-    {
-        title: "微博",
-        href: "https://weibo.com/congcong0806"
-    },
-    {
         title: "Telegram 社群",
         href: "https://t.me/yxbjx"
     },
