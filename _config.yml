@@ -92,7 +92,7 @@ friends: [
     },
     {
         title: "Telegram 社群",
-        href: "https://t.me/YinxiangBiji"
+        href: "https://t.me/yxbjx"
     },
     {
         title: "Telegram 频道",
@@ -101,5 +101,9 @@ friends: [
     {
         title: "几博",
         href: "https://i.lisuanlaoji.com"
+    },
+    {
+        title: "睿鸽",
+        href: "http://j.ls"
     }
 ]
