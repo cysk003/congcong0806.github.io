@@ -86,6 +86,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Sleep Cycle <https://testflight.apple.com/join/8RcEFqFF>
 - Wikipedia <https://testflight.apple.com/join/Z0AU0KXC>
 - Twitterrific 5 <https://testflight.apple.com/join/1G3zEeId>
+- Spring for Twitter <https://testflight.apple.com/join/cLXi3ov0>
 - Facebook <https://testflight.apple.com/join/C1a3MRG4>
 - Launch Center Pro <https://testflight.apple.com/join/DpujKg3U>
 - Picsew <https://testflight.apple.com/join/nY8mCbA3>
