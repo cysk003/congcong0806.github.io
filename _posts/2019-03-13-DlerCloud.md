@@ -15,14 +15,14 @@ tags:                               #标签
 
 SS/SSR 简介和客户端下载:<https://congcong0806.github.io/2018/04/20/SS>
 
-Dler Cloud, 规则大佬 lhie1 的中转机场,有多条BGP和IPLC线路,120+节点,30+IPLC节点,50+BGP节点,一家很稳很强的机场,速度相当不错,维护也很及时,支持SS/SSR/V2Ray/Trojan;<br>
-原生解锁：NETFLIX,HBO GO,FOX+,BILIBILI 港澳台,VIU等流媒体<br/>
+Dler Cloud, 中转机场,有多条BGP和IPLC线路,120+节点,30+IPLC节点,50+BGP节点,一家很稳很强的机场,速度相当不错,维护也很及时,支持SS/SSR/V2Ray/Trojan;<br>
+原生解锁：NETFLIX,HULU,HBO,AMAZON VIDEO,DISNEY+等流媒体<br/>
 
 这是 Surge/Shadowrocket/Quantumult 规则大佬 `lhie1` 的机场，不少人都在用他的规则。规则地址:<https://github.com/lhie1/Rules>
 
 lhie1 大佬爱折腾新技术，对客户端支持全面，支持 Surge/Clash/Surfboard托管、SS/SSD/V2Ray/Trojan订阅、Quantumult X配置、一键导入Quantumult/Shadowrocket/Surfboard；<br>
 全节点支持SS,V2Ray, 还支持Surge 4 Proxy List和Quantumult X List功能，还可以自定义服务器节点列表。<br/>
-套餐: ¥128/季, ¥288/年, ¥388/年, ¥488/年, ¥688/年, ¥888/年, ¥1888/年, ¥3000/年<br/>
+套餐: ¥168/季, ¥288/年, ¥388/年, ¥488/年, ¥688/年, ¥888/年, ¥1888/年, ¥3000/年<br/>
 
 注册购买 → <https://bit.ly/2tDjOBZ><br/>
 文档中心:<https://docs.lhie1.com/black-hole>
