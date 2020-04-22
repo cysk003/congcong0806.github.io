@@ -86,6 +86,9 @@ tags:                               #标签
 	1. logo:白底绿大象的图标
 	2. 分享笔记到社交网络
 
+12，Evernote 国际版账户最近(2020-04-20)开始限制了"印象笔记"客户端的登录和同步
+用 Evernote 国际版账户就用 Evernote 客户端, https://evernote.com/download 下载
+
 > 转载请注明原文出处:[「Evernote App」和「印象笔记-中国版」两个客户端的说明和区别](https://congcong0806.github.io/2018/07/12/Evernote-YinxiangChina)
 
 - - - -
