@@ -15,7 +15,7 @@ tags:                               #标签
 
 SS/SSR 简介和客户端下载:<https://congcong0806.github.io/2018/04/20/SS>
 
-Dler Cloud, 中转机场,有多条BGP和IPLC线路,120+节点,30+IPLC节点,50+BGP节点,还有IEPL线路,一家很稳很强的机场,速度相当不错,维护也很及时,支持SS/SSR/V2Ray/Trojan;<br>
+Dler Cloud, 中转机场,有多条BGP和IPLC线路,120+节点,30+IPLC节点,50+BGP节点,还有回国/游戏/IEPL线路,一家很稳很强的机场,速度相当不错,维护也很及时,支持SS/SSR/V2Ray/Trojan;<br>
 原生解锁：NETFLIX,HULU,HBO,AMAZON VIDEO,DISNEY+等流媒体<br/>
 
 对客户端支持全面，支持 Surge/Clash/Surfboard托管、SS/SSD/V2Ray/Trojan订阅、Quantumult X配置、一键导入Quantumult/Shadowrocket/Surfboard；<br>
