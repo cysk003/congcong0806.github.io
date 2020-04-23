@@ -22,7 +22,7 @@ Dler Cloud, 中转机场,有多条BGP和IPLC线路,120+节点,30+IPLC节点,50+B
 全节点支持SS,V2Ray, 还支持Surge 4 Proxy List和Quantumult X List功能，还可以自定义服务器节点列表。<br/>
 套餐: ¥168/季, ¥288/年, ¥388/年, ¥488/年, ¥688/年, ¥1288/年, ¥1888/年, ¥3000/年<br/>
 
-注册购买 → <https://bit.ly/2tDjOBZ><br/>
+注册购买 → [https://dlercloud.com](https://dlercloud.com/auth/register?affid=8079)<br/>
 文档中心:<https://docs.lhie1.com/black-hole>
 
 Telegram 官方群组:<https://t.me/dlercloud_talk><br>
