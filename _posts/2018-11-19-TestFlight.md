@@ -135,7 +135,6 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Yamble <https://testflight.apple.com/join/sWspgco2>
 - Color Defense <https://testflight.apple.com/join/uWKe9m1h>
 - Focus Buddy: Next Study Timer <https://testflight.apple.com/join/gBcR6FXj>
-- Cinema Time <https://testflight.apple.com/join/wcY5wC6H>
 - Wax for iPhone <https://testflight.apple.com/join/PnKidEdF>
 - Notes Plus <https://testflight.apple.com/join/DHJexhQq>
 - Yuri beta <https://testflight.apple.com/join/xCgwh5WX>
@@ -200,6 +199,9 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Quik - GoPro 视频编辑器 <https://testflight.apple.com/join/grBiK0aL>
 - DNS更改器 <https://testflight.apple.com/join/w2Fq4FSH>
 - TG-电报 <https://testflight.apple.com/join/njOfcmIw>
+- Cinema Time <https://testflight.apple.com/join/wcY5wC6H>
+- Lyd - Watch Remote for Sonos <https://testflight.apple.com/join/aNMuMdq9>
+- Stop Motion Studio Pro <https://testflight.apple.com/join/rfWbdRvr>
 
 ---
 
