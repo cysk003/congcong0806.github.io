@@ -135,6 +135,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Yamble <https://testflight.apple.com/join/sWspgco2>
 - Color Defense <https://testflight.apple.com/join/uWKe9m1h>
 - Focus Buddy: Next Study Timer <https://testflight.apple.com/join/gBcR6FXj>
+- Cinema Time <https://testflight.apple.com/join/wcY5wC6H>
 - Wax for iPhone <https://testflight.apple.com/join/PnKidEdF>
 - Notes Plus <https://testflight.apple.com/join/DHJexhQq>
 - Yuri beta <https://testflight.apple.com/join/xCgwh5WX>
