@@ -58,6 +58,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - KyPass 4 <https://testflight.apple.com/join/wlZmOo9t>
 - Documents by Readdle <https://testflight.apple.com/join/EOPEVoDA>
 - Working Copy - Git client <https://testflight.apple.com/join/ZzqOu8tX>
+- Scriptable <https://testflight.apple.com/join/uN1vTqxk>
 - Day One <https://testflight.apple.com/join/NXLBigzY>
 - WhatsApp <https://testflight.apple.com/join/s4rTJVPb>
 - 2Do <https://testflight.apple.com/join/McBV96Wi>
