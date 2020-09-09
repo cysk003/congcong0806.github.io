@@ -72,6 +72,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Pin <https://testflight.apple.com/join/dJwy1mS1>
 - Taio <https://testflight.apple.com/join/Y7rojBiD>
 - Paste 2 <https://testflight.apple.com/join/Z9mHMGxq>
+- Charty for Shortcuts <https://testflight.apple.com/join/0z4FPzLl>
 - 1Blocker X <https://testflight.apple.com/join/KjmVWFnT>
 - MOZE 3.0 <https://testflight.apple.com/join/56S0omVh>
 - Tumblr <https://testflight.apple.com/join/nTNSXGV3>
