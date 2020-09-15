@@ -66,6 +66,8 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Snapchat <https://testflight.apple.com/join/yP1ZHFr0>
 - OmniFocus 3 <https://testflight.apple.com/join/1eaxIMbo>
 - OmniPlan 3 <https://testflight.apple.com/join/kOOQHIoR>
+- OmniPlan 4 <https://testflight.apple.com/join/uf3ISy0e>
+- Spark Mail <https://testflight.apple.com/join/O2wj7i0x>
 - Google Chrome <https://testflight.apple.com/join/LPQmtkUs>
 - Firefox Beta <https://testflight.apple.com/join/JdsubPZs>
 - Opera <https://testflight.apple.com/join/ASrCFVHB>
