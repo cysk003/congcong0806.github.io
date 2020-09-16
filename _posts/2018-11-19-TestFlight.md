@@ -81,7 +81,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Todoist <https://testflight.apple.com/join/L2pBORZN>
 - Pocket <https://testflight.apple.com/join/LxKzQMpu>
 - Trello <https://testflight.apple.com/join/cRWMcQsr>
-- Feedly Lab <https://testflight.apple.com/join/DcxRQdP9>
+- Feedly <https://testflight.apple.com/join/03ER1aUo>
 - NetNewsWire <https://testflight.apple.com/join/5Mh4hVpS>
 - Spotify Music <https://testflight.apple.com/join/1SyedSId>
 - Dropbox <https://testflight.apple.com/join/LBZaRq4I>
