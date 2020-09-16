@@ -56,7 +56,11 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - 1Password <https://testflight.apple.com/join/flDiG5AU>
 - Enpass <https://testflight.apple.com/join/hIec0gli>
 - KyPass 4 <https://testflight.apple.com/join/wlZmOo9t>
+- PDF Expert 7 <https://testflight.apple.com/join/UE75wprO>
 - Documents by Readdle <https://testflight.apple.com/join/EOPEVoDA>
+- Calendars 5 <https://testflight.apple.com/join/tC44BniC>
+- Scanner Pro <https://testflight.apple.com/join/6YzgDpdZ>
+- Spark Mail <https://testflight.apple.com/join/O2wj7i0x>
 - Working Copy - Git client <https://testflight.apple.com/join/ZzqOu8tX>
 - Scriptable <https://testflight.apple.com/join/uN1vTqxk>
 - Day One <https://testflight.apple.com/join/NXLBigzY>
@@ -67,7 +71,6 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - OmniFocus 3 <https://testflight.apple.com/join/1eaxIMbo>
 - OmniPlan 3 <https://testflight.apple.com/join/kOOQHIoR>
 - OmniPlan 4 <https://testflight.apple.com/join/uf3ISy0e>
-- Spark Mail <https://testflight.apple.com/join/O2wj7i0x>
 - Google Chrome <https://testflight.apple.com/join/LPQmtkUs>
 - Firefox Beta <https://testflight.apple.com/join/JdsubPZs>
 - Opera <https://testflight.apple.com/join/ASrCFVHB>
