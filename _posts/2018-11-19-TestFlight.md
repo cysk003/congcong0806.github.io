@@ -155,6 +155,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Cats & Dogs <https://testflight.apple.com/join/rGDBZ3hs>
 - Art Wallpapers Daily <https://testflight.apple.com/join/2J53lBua>
 - SM.MS <https://testflight.apple.com/join/bQz911w3>
+- RSSHub <https://testflight.apple.com/join/IvTfj1zI>
 - Stream - An RSS Reader <https://testflight.apple.com/join/auxSqon8>
 - FullPlayer <https://testflight.apple.com/join/HktpUEoB>
 - Hipstamatic X Analog Camera <https://testflight.apple.com/join/By8fKrxM>
