@@ -213,6 +213,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Cinema Time <https://testflight.apple.com/join/wcY5wC6H>
 - Lyd - Watch Remote for Sonos <https://testflight.apple.com/join/aNMuMdq9>
 - Stop Motion Studio Pro <https://testflight.apple.com/join/rfWbdRvr>
+- Aviary <https://testflight.apple.com/join/rbXVO72G>
 
 ---
 
