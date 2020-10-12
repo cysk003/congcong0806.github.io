@@ -32,6 +32,16 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 
 点击链接加入测试版:
 
+支持 iOS 14 Widget 小组件 App：
+- Scriptable <https://testflight.apple.com/join/uN1vTqxk>
+- Widgy <https://testflight.apple.com/join/Jb214qSj>
+- OneDay <https://testflight.apple.com/join/WCUeziVh>
+- Widgetpack <https://testflight.apple.com/join/gtKCSFrJ>
+- Charty <https://testflight.apple.com/join/0z4FPzLl>
+- Calunar - 组件小农历 <https://testflight.apple.com/join/wg9uPT4L>
+
+---
+
 - Surge 3 <https://nssurge.com/account>
 - Microsoft Office <https://testflight.apple.com/join/eHAKJBtM>
 - Microsoft Word <https://testflight.apple.com/join/hw76phYi>
