@@ -30,8 +30,6 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 
 ###### 链接分享
 
-点击链接加入测试版:
-
 支持 iOS 14 Widget 小组件 App：
 - Scriptable <https://testflight.apple.com/join/uN1vTqxk>
 - Widgy <https://testflight.apple.com/join/Jb214qSj>
@@ -57,7 +55,6 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Skype For iPhone <https://testflight.apple.com/join/fB5IkJT7>
 - Skype For iPad <https://testflight.apple.com/join/vnSIsolv>
 - Telegram <https://testflight.apple.com/join/u6iogfd0>
-- Telegram X <https://rink.hockeyapp.net/apps/c6f5a76f5c364ac89a98b77671ef2d63>
 - Nicegram <https://testflight.apple.com/join/e07wV6pl>
 - TelePlus <https://testflight.apple.com/join/LQ2GXZag>
 - Ulysses <https://testflight.apple.com/join/RXVdMPW1>
