@@ -45,6 +45,10 @@ tags:                               #标签
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Android**:[点击下载](https://www.evernote.com/download/get.php?file=AndroidYinxiangCom)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Android Google Play**:[点击下载](https://play.google.com/store/apps/details?id=com.evernote)
 
+	在国内访问Evernote官网就自动跳转到印象笔记官网, 这个自动跳转是Evernote干的
+	印象笔记还给Evernote建议加一个"返回Evernote"的功能, 但Evernote不同意
+	把 evernote.com 走代理就不会自动跳转了
+
 10，印象笔记 Mac/Win 客户端均已支持 Markdown 功能
 
 	新增Markdown笔记功能:
