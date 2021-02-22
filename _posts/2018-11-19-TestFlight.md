@@ -185,6 +185,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Collabora Office <https://testflight.apple.com/join/TEnBWi68>
 - Overdrop Weather <http://testflight.apple.com/join/9ZhoC6yu>
 - ArianCast <https://testflight.apple.com/join/IyMuFyNp>
+- Proxyman <https://t.co/msZv1LBgHu?amp=1>
 - 手机淘宝 <https://testflight.apple.com/join/TThGL9RX>
 - 知乎 <https://testflight.apple.com/join/TX83Mn7J>
 - 迅雷Beta <https://testflight.apple.com/join/TeMz5XHg>
@@ -222,6 +223,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Lyd - Watch Remote for Sonos <https://testflight.apple.com/join/aNMuMdq9>
 - Stop Motion Studio Pro <https://testflight.apple.com/join/rfWbdRvr>
 - Aviary <https://testflight.apple.com/join/rbXVO72G>
+- AICoin专业版 <https://testflight.apple.com/join/3lmwg2ar>
 
 ---
 
