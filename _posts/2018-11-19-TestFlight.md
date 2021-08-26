@@ -61,6 +61,7 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Drafts <https://testflight.apple.com/join/WNMYzuyk>
 - Bear <https://testflight.apple.com/join/OZw3KhEz>
 - 1Password <https://testflight.apple.com/join/flDiG5AU>
+- Bitwarden <https://testflight.apple.com/join/595lFH7U>
 - Enpass <https://testflight.apple.com/join/hIec0gli>
 - KyPass 4 <https://testflight.apple.com/join/wlZmOo9t>
 - PDF Expert 7 <https://testflight.apple.com/join/UE75wprO>
