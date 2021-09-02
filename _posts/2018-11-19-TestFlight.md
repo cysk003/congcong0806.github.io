@@ -113,6 +113,8 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 - Xbox <https://testflight.apple.com/join/dfUeaFHS>
 - Signal <https://testflight.apple.com/join/8FHtd1Jq>
 - Aurora Reader <https://testflight.apple.com/join/3KgOyweE>
+- TikTok <https://testflight.apple.com/join/plxN3myo>
+- TikTok <https://testflight.apple.com/join/aL5ZWE8A>
 - Cover Screenshot <https://testflight.apple.com/join/bKTfTrvV>
 - Airmail <https://testflight.apple.com/join/1AcpfFq3>
 - K Music Player 3 Ultimate <https://testflight.apple.com/join/61zjD0e6>
