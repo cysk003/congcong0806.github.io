@@ -49,5 +49,3 @@ Telegram 的搜索是以"词"为基础单位的，是以`英文标点符号`或`
 * Telegram 私聊：<https://t.me/congcongx_bot>
 * Telegram 社群：<https://t.me/YinxiangBiji>
 * Telegram 频道：<https://t.me/YinxiangBiji_News>
-
-![聪聪](https://i.v2ex.co/3wc207g5.png)
