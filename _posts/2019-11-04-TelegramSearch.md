@@ -44,7 +44,7 @@ Telegram 的搜索是以"词"为基础单位的，是以`英文标点符号`或`
 <https://congcong0806.github.io/2018/09/03/App>
 
 ##### 聪聪
-&copy;聪聪:印象笔记资深印象大使,印象笔记年度象亲,坚果云效率大使,幕布布道师
+&copy;聪聪:Power-User:Telegram/Surge/Clash
 
 * Telegram 私聊：<https://t.me/congcongx_bot>
 * Telegram 社群：<https://t.me/YinxiangBiji>
