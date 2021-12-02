@@ -3,8 +3,8 @@ title: 聪聪 Blog
 SEOTitle: 聪聪 Blog
 header-img: img/post-bg-desk.jpg
 email: 
-description: "Telegram, Surge, Shadowsocks"
-keyword: "Telegram, Surge, Shadowsocks"
+description: "Telegram, Surge, Clash"
+keyword: "Telegram, Surge, Clash"
 url: "http://congcong0806.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/congcong0806/congcong0806.github.io" # you code repository
