@@ -1,2 +1,2 @@
-# 聪聪 Blog
+# Blog
 <a>https://congcong0806.github.io</a>
