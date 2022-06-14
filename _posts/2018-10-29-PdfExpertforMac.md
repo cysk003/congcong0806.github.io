@@ -99,5 +99,5 @@ PDF Expert 支持编辑文档大纲，你可以通过拖动目录来调整顺序
 &copy;聪聪:Power-User:Telegram/Surge/Clash
 
 * Telegram 私聊:<https://t.me/congcongx_bot>
-* Telegram 社群:<https://t.me/YinxiangBiji>
-* Telegram 频道:<https://t.me/YinxiangBiji_News>
+* Telegram 社群:<https://t.me/tgcnx>
+* Telegram 频道:<https://t.me/tgcnz>
