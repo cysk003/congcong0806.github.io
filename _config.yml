@@ -12,17 +12,17 @@ github_repo: "https://github.com/congcong0806/congcong0806.github.io" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Power-User:Telegram/Surge/Clash"
-sidebar-avatar: /img/about-cc-gentle.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-gentle.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
-RSS: true
-telegram_username:     congcong
-weibo_username:     congcong0806
-zhihu_username:     congcong
-github_username:    congcong0806
+#RSS: true
+#telegram_username:     congcong
+#weibo_username:     congcong0806
+#zhihu_username:     congcong
+#github_username:    congcong0806
 #facebook_username:  baiying.qiu.7
-jianshu_username:   da1809147fba
-twitter_username:   congcongim
+#jianshu_username:   da1809147fba
+#twitter_username:   congcongim
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
