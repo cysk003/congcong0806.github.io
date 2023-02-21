@@ -3,7 +3,7 @@ layout:     post                    # 使用的布局（不需要改）
 title:      「Evernote App」和「印象笔记-中国版」两个客户端的说明和区别               # 标题 
 subtitle:    #副标题
 date:       2018-07-12              # 时间
-author:     聪聪                      # 作者
+author:     Power-User                      # 作者
 header-img:     #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
@@ -100,8 +100,8 @@ tags:                               #标签
 ##### 优秀的正版软件
 <https://congcong0806.github.io/2018/09/03/App>
 
-##### 聪聪
-&copy;聪聪:Power-User:Telegram/Surge/Clash
+##### Power-User
+&copy;Power-User: Telegram, Surge, Clash
 
 * Telegram 私聊:<https://t.me/congcongx_bot>
 * Telegram 社群:<https://t.me/tgcnx>

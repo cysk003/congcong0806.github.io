@@ -3,7 +3,7 @@ layout:     post                    # 使用的布局（不需要改）
 title:      Mac 顶级应用 PDF Expert 要涨价？用比半价更低的价格拿下它               # 标题 
 subtitle:    #副标题
 date:       2018-10-29              # 时间
-author:     聪聪                      # 作者
+author:     Power-User                      # 作者
 header-img:     #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
@@ -35,7 +35,7 @@ PDF Expert 是 macOS 上一款全能型 PDF 编辑工具。它集阅读、创建
 
 我们了解到，这已经是最低价格，双 11 期间也不会更低了。
 
-- 点击链接领取 [聪聪] ¥5 元专属优惠券 > <https://partner.lizhi.io/congcong/pdf_expert_for_mac>
+- 点击链接领取 [Power-User] ¥5 元专属优惠券 > <https://partner.lizhi.io/congcong/pdf_expert_for_mac>
 - [前往「数码荔枝」商城选购 PDF Expert >](https://partner.lizhi.io/congcong/pdf_expert_for_mac) 
 
 如果你还想进一步了解 PDF Expert 的软件特色，继续往下看。
@@ -82,7 +82,7 @@ PDF Expert 支持编辑文档大纲，你可以通过拖动目录来调整顺序
 
 最后再重复一次，由于 PDF Expert 年底之后就要翻倍涨价至 ¥199 元，即日起，领取我们的专属优惠券，再前往「数码荔枝」商城下单 PDF Expert，**实付 ¥94 元**，你就能拿下这款 Mac 上数一数二的 PDF 全能工具。
 
-- 点击链接领取 [聪聪] ¥5 元专属优惠券 > <https://partner.lizhi.io/congcong/pdf_expert_for_mac>
+- 点击链接领取 [Power-User] ¥5 元专属优惠券 > <https://partner.lizhi.io/congcong/pdf_expert_for_mac>
 - [前往「数码荔枝」商城选购 PDF Expert >](https://partner.lizhi.io/congcong/pdf_expert_for_mac) 
 
 数码荔枝 Telegram 群组:<https://t.me/joinchat/C8fnOFRTu1kqa0tcKfTGoQ><br>
@@ -95,8 +95,8 @@ PDF Expert 支持编辑文档大纲，你可以通过拖动目录来调整顺序
 ##### 优秀的正版软件
 <https://congcong0806.github.io/2018/09/03/App>
 
-##### 聪聪
-&copy;聪聪:Power-User:Telegram/Surge/Clash
+##### Power-User
+&copy;Power-User: Telegram, Surge, Clash
 
 * Telegram 私聊:<https://t.me/congcongx_bot>
 * Telegram 社群:<https://t.me/tgcnx>

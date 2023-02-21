@@ -3,7 +3,7 @@ layout:     post                    # 使用的布局（不需要改）
 title:      印象笔记 Evernote Windows 客户端"无法连接到服务器"和"同步失败", 如何解决？             # 标题 
 subtitle:    #副标题
 date:       2019-01-30              # 时间
-author:     聪聪                      # 作者
+author:     Power-User                      # 作者
 header-img:     #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
@@ -49,14 +49,8 @@ C:\Program Files\Internet Explorer\iexplore.exe`
 如果"IE"能打开印象笔记客户端, 可印象笔记客户端依然同步失败(同步按钮有叹号), 就得看具体的活动日志<br>
 `印象笔记 Windows 客户端→菜单栏→帮助→活动日志→另存为, 文件私聊发我看看`
 
-**我的联系方式:**
-* 印象笔记工作群聊:<171606257@qq.com>
-* QQ 邮箱:<171606257@qq.com>
-* QQ 群:[310980586](https://jq.qq.com/?_wv=1027&k=549SGYY),[579754294](https://jq.qq.com/?_wv=1027&k=5JdOiol)
-* Telegram 私聊:<https://t.me/congcongx_bot>
-* Telegram 社群:<https://t.me/YinxiangBiji>
 
-**或者联系印象笔记官方客服和技术支持帮你解决问题:**
+**联系印象笔记官方客服和技术支持帮你解决问题:**
 * 官方微博:<https://weibo.com/yinxiangbiji>
 * 官方微信:yxbj100
 * 官方技术支持:<https://app.yinxiang.com/SupportLogin.action>
@@ -68,8 +62,8 @@ C:\Program Files\Internet Explorer\iexplore.exe`
 ##### 优秀的正版软件
 <https://congcong0806.github.io/2018/09/03/App>
 
-##### 聪聪
-&copy;聪聪:Power-User:Telegram/Surge/Clash
+##### Power-User
+&copy;Power-User: Telegram, Surge, Clash
 
 * Telegram 私聊:<https://t.me/congcongx_bot>
 * Telegram 社群:<https://t.me/tgcnx>

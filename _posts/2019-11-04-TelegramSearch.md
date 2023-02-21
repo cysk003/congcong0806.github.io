@@ -3,7 +3,7 @@ layout:     post                    # 使用的布局（不需要改）
 title:     Telegram 中文搜索解决方案              # 标题 
 subtitle:  #副标题
 date:       2019-11-04             # 时间
-author:     聪聪                      # 作者
+author:     Power-User                      # 作者
 header-img:     #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
@@ -43,8 +43,8 @@ Telegram 的搜索是以"词"为基础单位的，是以`英文标点符号`或`
 ##### 优秀的正版软件
 <https://congcong0806.github.io/2018/09/03/App>
 
-##### 聪聪
-&copy;聪聪:Power-User:Telegram/Surge/Clash
+##### Power-User
+&copy;Power-User: Telegram, Surge, Clash
 
 * Telegram 私聊：<https://t.me/congcongx_bot>
 * Telegram 社群：<https://t.me/YinxiangBiji>
