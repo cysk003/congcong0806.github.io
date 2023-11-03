@@ -46,7 +46,4 @@ Telegram 公告中心:<https://t.me/dlercloud_news>
 
 ##### Power-User
 &copy;Power-User: Telegram, Surge, Clash
-
-* Telegram 私聊:<https://t.me/congcongx_bot>
-* Telegram 社群:<https://t.me/tgcnx>
-* Telegram 频道:<https://t.me/tgcnz> 
+ 
