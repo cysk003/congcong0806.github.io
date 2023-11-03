@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: 
 description: "Telegram, Surge, Clash"
 keyword: "Telegram, Surge, Clash"
-url: "http://congcong0806.github.io"          # your host, for absolute URL
+url: "o"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/congcong0806/congcong0806.github.io" # you code repository
+github_repo: "" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -16,13 +16,13 @@ sidebar-avatar: /img/about-gentle.png      # use absolute URL, seeing it's used 
 
 # SNS settings
 #RSS: true
-#telegram_username:     congcong
-#weibo_username:     congcong0806
-#zhihu_username:     congcong
-#github_username:    congcong0806
+#telegram_username:     
+#weibo_username:     
+#zhihu_username:     
+#github_username:    
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   da1809147fba
-#twitter_username:   congcongim
+#twitter_username:   
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -51,11 +51,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: false    #是否开启Gitalk评论
-  clientID: 733a0cc07f033204d531                            #生成的clientID
-  clientSecret: c3cb0a8a1dceeed59a59ef6b7475bb2ce3b21905    #生成的clientSecret
-  repo: congcong0806.github.io    #仓库名称
-  owner: congcong0806    #github用户名
-  admin: congcong0806
+  clientID:                             #生成的clientID
+  clientSecret:     #生成的clientSecret
+  repo:     #仓库名称
+  owner:     #github用户名
+  admin: 
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # 统计
