@@ -77,13 +77,4 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 # Friends
-friends: [
-    {
-        title: "Telegram 社群",
-        href: "https://t.me/yxbjx"
-    },
-    {
-        title: "Telegram 频道",
-        href: "https://t.me/YinxiangBiji_News"
-    }
-]
+friends: []
