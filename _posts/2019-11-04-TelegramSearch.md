@@ -40,8 +40,5 @@ Telegram 的搜索是以"词"为基础单位的，是以`英文标点符号`或`
 
 - - - -
 
-##### 优秀的正版软件
-<https://congcong0806.github.io/2018/09/03/App>
-
 ##### Power-User
 &copy;Power-User: Telegram, Surge, Clash
