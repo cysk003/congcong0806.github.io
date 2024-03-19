@@ -45,9 +45,6 @@ tags:                               #标签
 
 - - - -
 
-##### 优秀的正版软件
-<https://congcong0806.github.io/2018/09/03/App>
-
 ##### Power-User
 &copy;Power-User: Telegram, Surge, Clash
 
