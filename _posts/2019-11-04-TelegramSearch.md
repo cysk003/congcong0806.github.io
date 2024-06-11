@@ -29,12 +29,6 @@ Telegram 的搜索是以"词"为基础单位的，是以`英文标点符号`或`
 ![](http://ww1.sinaimg.cn/large/9b84e6acly1g8lriq5f9mj20l30gab29.jpg)
 ![](http://ww1.sinaimg.cn/large/9b84e6acly1g8lriy0la0j20jj0h57wh.jpg)
 
-##### Telegram 相关链接
-* [Telegram 知识](https://congcong0806.github.io/2019/04/11/Telegram)
-* [Telegram 官方客户端支持中文语言](https://congcong0806.github.io/2019/02/21/Telegram)
-* [Telegram 各个系统客户端地址](https://congcong0806.github.io/2019/01/08/Telegram)
-* [Telegram 群组、频道、机器人 - 汇总分享](https://congcong0806.github.io/2018/04/24/Telegram)
-* [Telegram 中文搜索解决方案](https://congcong0806.github.io/2019/11/04/TelegramSearch)
 
 > 转载请注明原文出处：[Telegram 中文搜索解决方案](https://bit.ly/36x6bTO)
 
