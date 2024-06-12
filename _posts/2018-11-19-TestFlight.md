@@ -372,5 +372,4 @@ TestFlight 下载地址:<https://itunes.apple.com/cn/app/testflight/id899247664>
 
 ---
 
-##### Power-User
-&copy;Power-User: Telegram, Surge, Clash
+###

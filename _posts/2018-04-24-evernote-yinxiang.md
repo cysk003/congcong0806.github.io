@@ -80,5 +80,4 @@ tags:                               #标签
 
 - - - -
 
-##### Power-User
-&copy;Power-User: Telegram, Surge, Clash
+###

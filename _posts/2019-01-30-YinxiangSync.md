@@ -59,5 +59,4 @@ C:\Program Files\Internet Explorer\iexplore.exe`
 
 - - - -
 
-##### Power-User
-&copy;Power-User: Telegram, Surge, Clash
+###
