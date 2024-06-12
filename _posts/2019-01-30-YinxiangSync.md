@@ -57,6 +57,3 @@ C:\Program Files\Internet Explorer\iexplore.exe`
 
 > 转载请注明原文出处:[印象笔记 Evernote Windows 客户端"无法连接到服务器"和"同步失败", 如何解决？](https://congcong0806.github.io/2019/01/30/YinxiangSync)
 
-- - - -
-
-###
