@@ -11,7 +11,7 @@ github_repo: "" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Power-User:Telegram/Surge/Clash"
+sidebar-about-description: ""
 sidebar-avatar: /img/about-gentle.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
